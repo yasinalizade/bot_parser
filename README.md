@@ -10,7 +10,7 @@ Start the virtual environment:
 
 ```. BOTenv/bin/activate```
 
-Install neccessary libraries:
+Install necessary libraries:
 
 ```pip install -r requirements.txt```
 
